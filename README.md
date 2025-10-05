@@ -1,2 +1,2 @@
 # ONEPIXEL
-Resources for ONEPIXEL minecraft server
+Mod pack and resources for ONEPIXEL minecraft server
