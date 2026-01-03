@@ -7,5 +7,5 @@ Mod pack and resources.
 #### Zip
 - For old launchers without mrpack support.
 #### Via link
-Mrpack: [Right click to copy link](https://github.com/SparkleSavvy/ONEPIXEL/releases/download/0.0.1a/ONEPIXEL.0.0.1a.mrpack)
-Zip: [Right click to copy link](https://github.com/SparkleSavvy/ONEPIXEL/releases/download/0.0.1a/ONEPIXEL.0.0.1a.zip)
+- Mrpack: [Right click to copy link](https://github.com/SparkleSavvy/ONEPIXEL/releases/download/0.0.1a/ONEPIXEL.0.0.1a.mrpack)
+- Zip: [Right click to copy link](https://github.com/SparkleSavvy/ONEPIXEL/releases/download/0.0.1a/ONEPIXEL.0.0.1a.zip)
