@@ -6,7 +6,7 @@ Mod pack and resources.
 - Prism, PolyMC, Modrinth, XMCL and another.
 #### Zip
 - For old launchers without mrpack support.
-#### Via link [More about it](https://github.com/SparkleSavvy/ONEPIXEL/wiki/Link-Installation)
+#### Via link | [More about it](https://github.com/SparkleSavvy/ONEPIXEL/wiki/Link-Installation)
 - Mrpack: [Right click to copy link](https://github.com/SparkleSavvy/ONEPIXEL/releases/download/0.0.1a/ONEPIXEL.0.0.1a.mrpack)
 - Zip: [Right click to copy link](https://github.com/SparkleSavvy/ONEPIXEL/releases/download/0.0.1a/ONEPIXEL.0.0.1a.zip)
 
