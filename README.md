@@ -1,5 +1,5 @@
 # <img width="1024" height="205" alt="image" src="https://github.com/user-attachments/assets/e8026a95-a3e5-4e04-b053-afe402cc45c3" /> 
-#### <img width="1024" height="126" alt="image" src="https://github.com/user-attachments/assets/3221b94e-136b-46e0-9d58-8dfb7f5c6f78" />
+#### <img width="1024" height="125" alt="image" src="https://github.com/user-attachments/assets/2d64182c-93c2-4556-aac7-58b53f33275f" />
 Mod pack and resources.
 ## Ways to install:
 #### Mrpack
