@@ -1,4 +1,4 @@
-# <img width="1024" height="205" alt="image" src="https://github.com/user-attachments/assets/e8026a95-a3e5-4e04-b053-afe402cc45c3" /> 
+# ![minecraft_title.png](https://images.tomarkdown.dev/uploaded/mpbe3yrohmddi5pv.png)
 #### ![minecraft_title.png](https://images.tomarkdown.dev/uploaded/gr1rl2wekthcjoq7.png)
 Mod pack and resources.
 ## Ways to install:
@@ -16,4 +16,4 @@ You can help with the development of the modpack if you find bugs, crashes, etc.
 [Enhancements](https://github.com/SparkleSavvy/ONEPIXEL/issues?q=state%3Aopen%20label%3Aenhancement)
 and other...
 
-#### <img width="479" height="69" alt="image" src="https://github.com/user-attachments/assets/9a3aed69-874d-438b-a6db-dca56be31dd9" />
+#### ![minecraft_title.png](https://images.tomarkdown.dev/uploaded/e3nv7t9nt5zwghvu.png)
