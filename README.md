@@ -1,5 +1,5 @@
 # <img width="1024" height="205" alt="image" src="https://github.com/user-attachments/assets/e8026a95-a3e5-4e04-b053-afe402cc45c3" /> 
-#### <img width="1024" height="125" alt="image" src="https://github.com/user-attachments/assets/2d64182c-93c2-4556-aac7-58b53f33275f" />
+#### ![minecraft_title.png](https://images.tomarkdown.dev/uploaded/gr1rl2wekthcjoq7.png)
 Mod pack and resources.
 ## Ways to install:
 #### Mrpack
