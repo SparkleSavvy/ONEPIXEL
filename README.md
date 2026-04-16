@@ -1,5 +1,5 @@
-# ![minecraft_title.png](https://images.tomarkdown.dev/uploaded/mpbe3yrohmddi5pv.png)
-#### ![minecraft_title.png](https://images.tomarkdown.dev/uploaded/gr1rl2wekthcjoq7.png)
+# ![onepixel.png](https://cdn.modrinth.com/data/NzVjirH6/images/53fca00bcc5e1ed83435d279c78612248cc213e3.png)
+#### ![update.png](https://cdn.modrinth.com/data/NzVjirH6/images/928c209cc622c12fc4234576b3dd155bb157c11f.png)
 Mod pack and resources.
 ## Ways to install:
 #### Mrpack
@@ -16,4 +16,4 @@ You can help with the development of the modpack if you find bugs, crashes, etc.
 [Enhancements](https://github.com/SparkleSavvy/ONEPIXEL/issues?q=state%3Aopen%20label%3Aenhancement)
 and other...
 
-#### ![minecraft_title.png](https://images.tomarkdown.dev/uploaded/e3nv7t9nt5zwghvu.png)
+#### ![season.png](https://cdn.modrinth.com/data/NzVjirH6/images/23ea94409377ce90e26f0232cb4ba3e0299e5ef8.png)
