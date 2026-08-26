@@ -1,6 +1,9 @@
 # ![onepixel.png](https://cdn.modrinth.com/data/NzVjirH6/images/53fca00bcc5e1ed83435d279c78612248cc213e3.png)
 #### ![update.png](https://cdn.modrinth.com/data/NzVjirH6/images/928c209cc622c12fc4234576b3dd155bb157c11f.png)
 Mod pack and resources.
+
+The project now has a version manager! [Try it out](https://github.com/SparkleSavvy/ONEPIXEL-Manager)
+
 ## Ways to install:
 #### Mrpack
 - Prism, PolyMC, Modrinth, XMCL and another.
