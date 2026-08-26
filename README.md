@@ -17,5 +17,3 @@ You can help with the development of the modpack if you find bugs, crashes, etc.
 [Crashes](https://github.com/SparkleSavvy/ONEPIXEL/issues?q=state%3Aopen%20label%3Acrash)
 [Enhancements](https://github.com/SparkleSavvy/ONEPIXEL/issues?q=state%3Aopen%20label%3Aenhancement)
 and other...
-
-#### ![season.png](https://cdn.modrinth.com/data/NzVjirH6/images/23ea94409377ce90e26f0232cb4ba3e0299e5ef8.png)
